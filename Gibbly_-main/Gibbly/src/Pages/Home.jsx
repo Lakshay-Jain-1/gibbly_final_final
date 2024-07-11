@@ -217,7 +217,7 @@ const Home = () => {
                   type="submit"
                   className="bg-orange-500 text-white px-6 py-3 rounded-md"
                 >
-                  <a href="subscribe.html" className="no-underline text-white">
+                  <a href="https://www.youtube.com/watch?v=hChoaaIc6No" className="no-underline text-white">
                     Subscribe...
                   </a>
                 </button>
